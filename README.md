@@ -4,9 +4,9 @@
 
 [OhMyZsh](https://ohmyz.sh/)
 
- + https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/
+ + [zsh-plugins](https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/)
 
-
+[Docker] (https://www.docker.com/)
 [VSCode](https://code.visualstudio.com/)
 
 [Clipy](https://clipy-app.com/)
