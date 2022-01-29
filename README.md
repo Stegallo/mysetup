@@ -13,3 +13,6 @@
 [Clipy](https://clipy-app.com/)
 
 xcode
+
+Atom
+https://github.com/joseramonc/multi-cursor
