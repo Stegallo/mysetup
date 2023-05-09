@@ -15,3 +15,11 @@
 [Clipy](https://clipy-app.com/)
 
 xcode
+
+[Homebrew](https://brew.sh/)
+
+
+## pyenv
+
+`brew install openssl readline sqlite3 xz zlib`
+`curl https://pyenv.run | bash`
