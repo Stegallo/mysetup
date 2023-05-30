@@ -21,5 +21,17 @@ xcode
 
 ## pyenv
 
-`brew install openssl readline sqlite3 xz zlib`
-`curl https://pyenv.run | bash`
+```brew install openssl readline sqlite3 xz zlib```
+```curl https://pyenv.run | bash```
+
+## install python with pyenv
+
+```pyenv install --list | grep " 3\."```
+```pyenv install -v 3.7```
+```pyenv install -v 3.11```
+
+show installed versions
+```pyenv versions```
+
+set local version
+```pyenv local 3.11.3```
