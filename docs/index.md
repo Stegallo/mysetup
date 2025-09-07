@@ -1,3 +1,14 @@
-# TOOL_NAME
+How my tools are configured
 
-A one-liner of what your tool does. Add a badge or two if you want.
+# python
+
+## managed via uv
+https://docs.astral.sh/uv/
+
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+```
+uv self update
+uv self version
+```
