@@ -1,0 +1,28 @@
+title: mysetup
+description: my setup configuration
+
+# Use a built-in GitHub Pages theme (no plugins required)
+theme: jekyll-theme-cayman
+
+# IMPORTANT for project pages:
+url: "https://your-username.github.io"   # no trailing slash
+baseurl: "/your-repo-name"                # repo name with leading slash
+
+# Nice-to-haves
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: Google Analytics (remove if not used)
+# google_analytics: G-XXXXXXXXXX
+
+# Markdown + code highlighting (defaults, but explicit is fine)
+markdown: kramdown
+highlighter: rouge
+
+# Optional: exclude stuff from the site build
+exclude:
+  - README.md
+  - node_modules
+  - package*.json
+  - Gemfile*
