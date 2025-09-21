@@ -1,0 +1,19 @@
+# Use a built-in GitHub Pages theme (no plugins required)
+theme: jekyll-theme-hacker
+
+# IMPORTANT for project pages:
+url: "https://stegallo.github.io"   # no trailing slash
+baseurl: "/mysetup"                # repo name with leading slash
+
+# Nice-to-haves
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown + code highlighting (defaults, but explicit is fine)
+markdown: kramdown
+highlighter: rouge
+
+# Optional: exclude stuff from the site build
+exclude:
+  - README.md
