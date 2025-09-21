@@ -3,7 +3,7 @@ theme: jekyll-theme-hacker
 
 # IMPORTANT for project pages:
 url: "https://stegallo.github.io"   # no trailing slash
-baseurl: "/mysetup"                # repo name with leading slash
+baseurl: "/mysetup_dev"                # repo name with leading slash
 
 # Nice-to-haves
 plugins:

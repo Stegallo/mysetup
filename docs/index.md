@@ -1,14 +1,12 @@
-How my tools are configured
+---
+title: My Setup
+description: My developer setup docs.
+---
+# My Dev Setup
 
-# python
-
-## managed via uv
-https://docs.astral.sh/uv/
-
-```
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-```
-uv self update
-uv self version
-```
+- **[iTerm2](https://iterm2.com/)** - terminal
+- **[OhMyZsh](https://ohmyz.sh/)** - shell
+- **[Clipy](https://clipy-app.com/)** - clipboard utility
+- **[Homebrew](https://brew.sh/)** - macOS package manager
+- **[uv]({{ "/uv/" | relative_url }})** — install, update, `uvx`, tool installs.
+- **[Python]({{ "/python/" | relative_url }})** — versions, virtual envs, packages.
