@@ -6,4 +6,4 @@
 
 # mysetup
 
-git repo for [mysetup_dev](https://stegallo.github.io/mysetup/)
+git repo for [mysetup](https://stegallo.github.io/mysetup/)
